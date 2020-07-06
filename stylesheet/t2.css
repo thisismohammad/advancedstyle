@@ -1,0 +1,21 @@
+header{
+	background:#D3D3D3;
+}
+h1{
+	text-align: center;
+	color: #FFFFFF;
+
+}
+a{
+	color: 	#000000;
+	background: #778899;
+}
+h2{
+	color: #0000FF;
+}
+section{
+	background: #808080;
+}
+img{
+	display: none;
+}
